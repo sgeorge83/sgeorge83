@@ -1,5 +1,5 @@
 # Hi, I'm Sharoon George 👋
-### Tech Hobbyist | Python Student | Automation Enthusiast 🐍
+### HR Professional | Tech Hobbyist | Data Analysis & Transformation | Python Student | Automation Enthusiast 🐍
 
 I am a lifelong learner exploring the intersection of **Python**, **Digital Automation**, and **Data Intelligence**. I enjoy building modular tools that simplify complex workflows and turn raw data into actionable insights.
 
