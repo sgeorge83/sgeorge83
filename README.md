@@ -3,7 +3,7 @@
 
 I'm an HR professional based in the UAE who builds practical software to simplify real workplace and everyday problems. My work sits at the intersection of **human resources**, **document automation**, and **digital tools** — from extracting visa data and streamlining admin workflows to faith-based apps, APIs, and mobile experiences.
 
-I learn **Python**, **JavaScript**, **Kotlin**, and related technologies hands-on. I design the solution, test it in real scenarios, and ship iteratively — with support from **AI-assisted development** (Cursor). I'm not a traditional software engineer by background, but I've gained solid experience taking ideas from concept to deployed products: APIs on Vercel, PWAs on GitHub Pages, Android apps, social automation pipelines, and commercial desktop tools.
+I learn **Python**, **JavaScript**, **Kotlin**, and related technologies hands-on. I design the solution, test it in real scenarios, and ship iteratively — drawing on **AI-assisted development** across **ChatGPT (OpenAI)**, **Gemini**, **Claude (Anthropic)**, and **Cursor**, depending on what each task needs. I'm not a traditional software engineer by background, but I've gained solid experience taking ideas from concept to deployed products: wiring and managing **APIs** (REST, third-party integrations, webhooks, secrets), and handling **deployments** myself — Vercel, GitHub Pages, GitHub Actions, Cloudinary, Meta Graph API, Redis, and similar platforms used across my projects.
 
 ---
 
@@ -33,7 +33,7 @@ On the **faith & content side**, E-GEEK covers a growing suite of verse-of-the-d
 
 ### How I Work
 
-I work as a **builder–learner**: I define the problem, shape the requirements, collaborate with AI-assisted tools to implement and debug, then handle deployment, scheduling, and iteration myself. That process has taught me version control, API design, cross-platform delivery, and getting things live — skills I apply across every project I take on.
+I work as a **builder–learner**: I define the problem, shape the requirements, and use AI tools — **ChatGPT**, **Gemini**, **Claude**, and **Cursor** — to explore ideas, draft code, debug, and refine. I don't stop at generation; I configure **API keys and endpoints**, connect services, set up **CI/CD and hosting**, schedule cron jobs, and iterate until something runs reliably in production. That hands-on path has taught me version control, API design, deployment troubleshooting, and cross-platform delivery — skills I apply across every project I take on.
 
 ---
 
