@@ -1,39 +1,51 @@
 # Hi, I'm Sharoon George 👋
 ### HR Professional | Automation Builder | Python & Workflow Enthusiast
 
-I'm an HR professional who turns everyday problems into working software — from admin automation and document workflows to web apps, APIs, and mobile tools. I learn **Python**, **JavaScript**, and related technologies hands-on, and I build iteratively with **AI-assisted development** (Cursor) — shaping requirements, reviewing output, testing, and shipping real projects end to end.
+I'm an HR professional who turns everyday problems into working software — from admin automation and document workflows to web apps, APIs, mobile widgets, and Linux desktop tools. I learn **Python**, **JavaScript**, **Kotlin**, and related technologies hands-on, and I build iteratively with **AI-assisted development** (Cursor) — shaping requirements, reviewing output, testing, and shipping real projects end to end.
 
-I'm not a traditional software engineer by background, but I've gained practical experience designing solutions, managing repositories, and **deploying automation and applications** to production (Vercel, GitHub Pages, GitHub Actions, and more).
+I'm not a traditional software engineer by background, but I've gained practical experience designing connected product ecosystems, managing repositories, and **deploying automation and applications** to production (Vercel, GitHub Pages, GitHub Actions, Meta Graph API, and more).
 
 ---
 
-### 🚀 Featured Projects
-A selection of tools I've designed and built — many enhanced collaboratively with Cursor:
+### 📖 E-GEEK CREATIONS — Bible & Verse Ecosystem
+A connected suite of daily-verse products — backend API, Android widget, bilingual PWAs, Urdu API, and social automation — built and maintained together:
 
 | Project | What it does | Live / Repo |
 | :--- | :--- | :--- |
-| **[Eli-wise](https://github.com/sgeorge83/Eli-wise)** | AI Bible assistant — Scripture-based answers from trusted theological sources | [eli-wise.vercel.app](https://eli-wise.vercel.app) |
-| **[dailybread-pwa](https://github.com/sgeorge83/dailybread-pwa)** | Installable PWA for Our Daily Bread devotionals — English & Urdu, audio, dark mode | [sgeorge83.github.io/dailybread-pwa](https://sgeorge83.github.io/dailybread-pwa/) |
+| **[Bible Widget Backend](https://github.com/sgeorge83/bible-widget-backend)** | Serverless API — fetches Verse of the Day, ESV text, AI verse insight, Redis caching; powers widget, RSS & social bots | [bible-widget-backend.vercel.app](https://bible-widget-backend.vercel.app) |
+| **[Bible Widget](https://github.com/sgeorge83/BibleWidgetApp)** | Android home-screen widget — daily verse with insight, auto-refresh at 9:30 AM Dubai, offline cache | [Repository](https://github.com/sgeorge83/BibleWidgetApp) |
+| **[VOTD-IG](https://github.com/sgeorge83/VOTD-IG)** | Automated daily Instagram & Facebook posts — branded image generation, Cloudinary, Meta Graph API, GitHub Actions | [Repository](https://github.com/sgeorge83/VOTD-IG) |
+| **[VOTD Urdu & English](https://github.com/sgeorge83/VOTD-URDU-ENGLISH)** | Bilingual installable PWA — Urdu Geo Version + English verse, copy/share, offline shell | [sgeorge83.github.io/VOTD-URDU-ENGLISH](https://sgeorge83.github.io/VOTD-URDU-ENGLISH/) |
 | **[urdu-bible-api](https://github.com/sgeorge83/urdu-bible-api)** | REST API for the Urdu Geo Version Bible — FastAPI on Vercel with interactive docs | [urdu-bible-api.vercel.app](https://urdu-bible-api.vercel.app) |
+| **[dailybread-pwa](https://github.com/sgeorge83/dailybread-pwa)** | Installable PWA for Our Daily Bread devotionals — English & Urdu, audio, dark mode | [sgeorge83.github.io/dailybread-pwa](https://sgeorge83.github.io/dailybread-pwa/) |
+| **[Eli-wise](https://github.com/sgeorge83/Eli-wise)** | AI Bible assistant — Scripture-based answers from trusted theological sources | [eli-wise.vercel.app](https://eli-wise.vercel.app) |
+
+---
+
+### 🚀 Other Featured Projects
+
+| Project | What it does | Live / Repo |
+| :--- | :--- | :--- |
+| **[Gnome Schedule](https://github.com/sgeorge83/gnome-schedule)** | Modernized **Python 3 / GTK 3** port of the classic Linux cron & `at` job manager — install scripts, packaging & maintenance | [Repository](https://github.com/sgeorge83/gnome-schedule) |
 | **[cvbuilder](https://github.com/sgeorge83/cvbuilder)** | UAE-focused CV builder for skilled workers — bilingual forms, export, Pi Network integration | [cvbuilderpi.vercel.app](https://cvbuilderpi.vercel.app) |
-| **[Expense Tracker Bot](https://github.com/sgeorge83/Expense-Tracker---Telegram-Bot)** | Telegram expense tracker with smart categorization, voice notes, OCR receipts & budgeting | [Repository](https://github.com/sgeorge83/Expense-Tracker---Telegram-Bot) |
 | **[PinkNubes](https://github.com/sgeorge83/PinkNubes)** | Gentle period-tracking Android app for young girls — calendar, cycle prediction, reminders | [Repository](https://github.com/sgeorge83/PinkNubes) |
+| **[Expense Tracker Bot](https://github.com/sgeorge83/Expense-Tracker---Telegram-Bot)** | Telegram expense tracker with smart categorization, voice notes, OCR receipts & budgeting | [Repository](https://github.com/sgeorge83/Expense-Tracker---Telegram-Bot) |
 | **[Excel Admin Automation Suite](https://github.com/sgeorge83/Excel-Admin-Automation-Suite)** | VBA toolkit for document management and file organization in admin workflows | [Repository](https://github.com/sgeorge83/Excel-Admin-Automation-Suite) |
 
 ---
 
 ### 🛠️ What I Focus On
 
-* **Workflow & Admin Automation** — Python scripts, VBA/Excel tools, and file-organization utilities that cut down repetitive HR and office tasks.
-* **Web Apps & PWAs** — Bilingual devotional apps, CV tools, and interactive front ends deployed via GitHub Pages and Vercel.
-* **APIs & Integrations** — REST APIs, Telegram bots, and multi-source data connections for practical, real-world use cases.
-* **Deployment & Delivery** — Setting up CI/CD workflows, configuring hosting, and taking projects from idea to a working live URL or installable app.
+* **Workflow & Admin Automation** — Python scripts, VBA/Excel tools, Linux scheduling utilities, and file-organization workflows.
+* **Web Apps, PWAs & Widgets** — Bilingual devotional apps, Android widgets, CV tools, and interactive front ends on GitHub Pages and Vercel.
+* **APIs, Bots & Social Automation** — REST APIs, Telegram bots, Instagram/Facebook pipelines, and multi-source data integrations.
+* **Deployment & Delivery** — CI/CD workflows, cron scheduling, API keys & secrets, hosting configuration, and taking projects from idea to a live URL or installable app.
 
 ---
 
 ### 💡 How I Build
 
-I work in a **builder–learner** model: I define the problem, structure the solution, and collaborate closely with AI-assisted tools to implement, refine, and deploy. That process has taught me version control, debugging, API design, and production deployment — skills I apply across every project in this profile.
+I work in a **builder–learner** model: I define the problem, structure the solution, and collaborate closely with AI-assisted tools to implement, refine, and deploy. That process has taught me version control, debugging, API design, cross-platform delivery, and production deployment — skills I apply across every project in this profile.
 
 ---
 
@@ -45,8 +57,8 @@ I work in a **builder–learner** model: I define the problem, structure the sol
 ---
 
 ### 🌱 Current Focus
-* **Expanding** the Bible & Urdu content ecosystem (PWAs, APIs, and daily devotional tools).
-* **Refining** automation suites for document and admin workflows.
+* **Growing** the E-GEEK Bible & Urdu content ecosystem — widget, backend, PWAs, APIs, and social automation in sync.
+* **Maintaining** Linux and admin automation tools (Gnome Schedule, Excel suites, file workflows).
 * **Learning** deeper Python patterns, API design, and mobile app delivery through hands-on builds.
 
 ---
