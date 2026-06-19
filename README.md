@@ -1,7 +1,7 @@
 # Hi, I'm Sharoon George 👋
 ### HR Professional | Automation Builder | Python & Workflow Enthusiast
 
-I'm an HR professional who turns everyday problems into working software — from admin automation and document workflows to web apps, APIs, mobile widgets, and Linux desktop tools. I learn **Python**, **JavaScript**, **Kotlin**, and related technologies hands-on, and I build iteratively with **AI-assisted development** (Cursor) — shaping requirements, reviewing output, testing, and shipping real projects end to end.
+I'm an HR professional who turns everyday problems into working software — from **UAE visa & document automation** and admin workflows to web apps, APIs, mobile widgets, and Linux desktop tools. I learn **Python**, **JavaScript**, **Kotlin**, and related technologies hands-on, and I build iteratively with **AI-assisted development** (Cursor) — shaping requirements, reviewing output, testing, and shipping real projects end to end.
 
 I'm not a traditional software engineer by background, but I've gained practical experience designing connected product ecosystems, managing repositories, and **deploying automation and applications** to production (Vercel, GitHub Pages, GitHub Actions, Meta Graph API, and more).
 
@@ -25,6 +25,15 @@ A connected suite of daily-verse products — backend API, structured Bible data
 
 ---
 
+### 💼 E-GEEK CREATIONS — HR & UAE Automation
+Professional Python tools for real HR workflows in the UAE — part of the same **E-GEEK CREATIONS** brand, built and shipped outside the public GitHub portfolio:
+
+| Product | What it does | Get it |
+| :--- | :--- | :--- |
+| **[SHARX HR Automation Suite](https://egeek83.gumroad.com/l/SHARX)** | Python application — extracts structured data from UAE **entry visa** and **visa cancellation** documents, cutting down repetitive HR admin and data-entry work | [Gumroad](https://egeek83.gumroad.com/l/SHARX) |
+
+---
+
 ### 🚀 Other Featured Projects
 
 | Project | What it does | Live / Repo |
@@ -39,7 +48,7 @@ A connected suite of daily-verse products — backend API, structured Bible data
 
 ### 🛠️ What I Focus On
 
-* **Workflow & Admin Automation** — Python scripts, VBA/Excel tools, Linux scheduling utilities, and file-organization workflows.
+* **Workflow & Admin Automation** — Python scripts, UAE visa/document extraction, VBA/Excel tools, Linux scheduling utilities, and file-organization workflows.
 * **Web Apps, PWAs & Widgets** — Bilingual devotional apps, Android widgets, CV tools, and interactive front ends on GitHub Pages and Vercel.
 * **APIs, Bots & Social Automation** — REST APIs, Telegram bots, Instagram/Facebook pipelines, and multi-source data integrations.
 * **Deployment & Delivery** — CI/CD workflows, cron scheduling, API keys & secrets, hosting configuration, and taking projects from idea to a live URL or installable app.
@@ -61,13 +70,14 @@ I work in a **builder–learner** model: I define the problem, structure the sol
 
 ### 🌱 Current Focus
 * **Growing** the E-GEEK Bible & Urdu content ecosystem — backend, data, widget, PWAs, APIs, and social automation in sync.
+* **Shipping** practical HR tools for the UAE market (e.g. SHARX visa extraction suite on Gumroad).
 * **Maintaining** Linux and admin automation tools (Gnome Schedule, Excel suites, file workflows).
 * **Learning** deeper Python patterns, API design, and mobile app delivery through hands-on builds.
 
 ---
 
 ### 📫 Let's Connect
-[LinkedIn Profile](https://www.linkedin.com/in/sharoon-george-47993b65) · [All Repositories](https://github.com/sgeorge83?tab=repositories)
+[LinkedIn Profile](https://www.linkedin.com/in/sharoon-george-47993b65) · [All Repositories](https://github.com/sgeorge83?tab=repositories) · [E-GEEK on Gumroad](https://egeek83.gumroad.com/l/SHARX)
 
 ---
 *"Building useful tools, learning as I go, and shipping what works."*
