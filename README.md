@@ -1,83 +1,54 @@
 # Hi, I'm Sharoon George 👋
-### HR Professional | Automation Builder | Python & Workflow Enthusiast
+### HR Professional · Automation Builder · E-GEEK Creations
 
-I'm an HR professional who turns everyday problems into working software — from **UAE visa & document automation** and admin workflows to web apps, APIs, mobile widgets, and Linux desktop tools. I learn **Python**, **JavaScript**, **Kotlin**, and related technologies hands-on, and I build iteratively with **AI-assisted development** (Cursor) — shaping requirements, reviewing output, testing, and shipping real projects end to end.
+I'm an HR professional based in the UAE who builds practical software to simplify real workplace and everyday problems. My work sits at the intersection of **human resources**, **document automation**, and **digital tools** — from extracting visa data and streamlining admin workflows to faith-based apps, APIs, and mobile experiences.
 
-I'm not a traditional software engineer by background, but I've gained practical experience designing connected product ecosystems, managing repositories, and **deploying automation and applications** to production (Vercel, GitHub Pages, GitHub Actions, Meta Graph API, and more).
-
----
-
-### 📖 E-GEEK CREATIONS — Bible & Verse Ecosystem
-A connected suite of daily-verse products — backend API, structured Bible data, Android apps, bilingual PWAs, Urdu API, and social automation — built and maintained together:
-
-| Project | What it does | Live / Repo |
-| :--- | :--- | :--- |
-| **[Bible Widget Backend](https://github.com/sgeorge83/bible-widget-backend)** | Serverless API — fetches Verse of the Day, ESV text, AI verse insight, Redis caching; powers widget, RSS & social bots | [bible-widget-backend.vercel.app](https://bible-widget-backend.vercel.app) |
-| **[urdu-bible-data](https://github.com/sgeorge83/urdu-bible-data)** | Structured JSON dataset — full Urdu Geo Version Bible (66 books, 1,189 chapters, 30,668 verses); data layer for the Urdu API & PWAs | [Repository](https://github.com/sgeorge83/urdu-bible-data) |
-| **[urdu-bible-api](https://github.com/sgeorge83/urdu-bible-api)** | REST API for the Urdu Geo Version Bible — FastAPI on Vercel with interactive docs | [urdu-bible-api.vercel.app](https://urdu-bible-api.vercel.app) |
-| **[Bible Widget](https://github.com/sgeorge83/BibleWidgetApp)** | Android home-screen widget — daily verse with insight, auto-refresh at 9:30 AM Dubai, offline cache | [Repository](https://github.com/sgeorge83/BibleWidgetApp) |
-| **[E-Geek Bible Themes](https://github.com/sgeorge83/e-geek-bible-themes)** | Android app — 30-day faith wallpaper journey with daily Scripture themes, auto-refresh & manual apply | [Repository](https://github.com/sgeorge83/e-geek-bible-themes) |
-| **[E-GEEK Bible (PWA)](https://github.com/sgeorge83/bible-daily-pwa)** | Installable daily-verse PWA — ESV scripture, AI-assisted verse insight, distraction-free reflection | [sgeorge83.github.io/bible-daily-pwa](https://sgeorge83.github.io/bible-daily-pwa/) |
-| **[VOTD-IG](https://github.com/sgeorge83/VOTD-IG)** | Automated daily Instagram & Facebook posts — branded image generation, Cloudinary, Meta Graph API, GitHub Actions | [Repository](https://github.com/sgeorge83/VOTD-IG) |
-| **[VOTD Urdu & English](https://github.com/sgeorge83/VOTD-URDU-ENGLISH)** | Bilingual installable PWA — Urdu Geo Version + English verse, copy/share, offline shell | [sgeorge83.github.io/VOTD-URDU-ENGLISH](https://sgeorge83.github.io/VOTD-URDU-ENGLISH/) |
-| **[dailybread-pwa](https://github.com/sgeorge83/dailybread-pwa)** | Installable PWA for Our Daily Bread devotionals — English & Urdu, audio, dark mode | [sgeorge83.github.io/dailybread-pwa](https://sgeorge83.github.io/dailybread-pwa/) |
-| **[Eli-wise](https://github.com/sgeorge83/Eli-wise)** | AI Bible assistant — Scripture-based answers from trusted theological sources | [eli-wise.vercel.app](https://eli-wise.vercel.app) |
+I learn **Python**, **JavaScript**, **Kotlin**, and related technologies hands-on. I design the solution, test it in real scenarios, and ship iteratively — with support from **AI-assisted development** (Cursor). I'm not a traditional software engineer by background, but I've gained solid experience taking ideas from concept to deployed products: APIs on Vercel, PWAs on GitHub Pages, Android apps, social automation pipelines, and commercial desktop tools.
 
 ---
 
-### 💼 E-GEEK CREATIONS — HR & UAE Automation
-Professional Python tools for real HR workflows in the UAE — part of the same **E-GEEK CREATIONS** brand, built and shipped outside the public GitHub portfolio:
+### What I Build
 
-| Product | What it does | Get it |
-| :--- | :--- | :--- |
-| **[SHARX HR Automation Suite](https://egeek83.gumroad.com/l/SHARX)** | Python application — extracts structured data from UAE **entry visa** and **visa cancellation** documents, cutting down repetitive HR admin and data-entry work | [Gumroad](https://egeek83.gumroad.com/l/SHARX) |
+I tend to work in a few connected areas rather than one-off scripts:
 
----
+* **UAE HR & workplace automation** — Python tools for visa documents, Excel/VBA admin suites, and workflows that reduce repetitive data entry for HR teams.
+* **E-GEEK faith & verse technology** — A connected ecosystem of daily Bible products: serverless backends, Android widgets and wallpaper apps, bilingual PWAs, structured Urdu scripture data, REST APIs, and automated Instagram/Facebook posting.
+* **Web apps & installable PWAs** — Lightweight, mobile-friendly experiences for devotionals, daily verses, CV building, and bilingual content.
+* **Bots, APIs & integrations** — Telegram bots, multi-source data pipelines, cron-driven automation, and third-party API wiring.
+* **System & desktop utilities** — Linux scheduling tools, file organization, and packaging for tools people can actually install and use.
 
-### 🚀 Other Featured Projects
-
-| Project | What it does | Live / Repo |
-| :--- | :--- | :--- |
-| **[Gnome Schedule](https://github.com/sgeorge83/gnome-schedule)** | Modernized **Python 3 / GTK 3** port of the classic Linux cron & `at` job manager — install scripts, packaging & maintenance | [Repository](https://github.com/sgeorge83/gnome-schedule) |
-| **[cvbuilder](https://github.com/sgeorge83/cvbuilder)** | UAE-focused CV builder for skilled workers — bilingual forms, export, Pi Network integration | [cvbuilderpi.vercel.app](https://cvbuilderpi.vercel.app) |
-| **[PinkNubes](https://github.com/sgeorge83/PinkNubes)** | Gentle period-tracking Android app for young girls — calendar, cycle prediction, reminders | [Repository](https://github.com/sgeorge83/PinkNubes) |
-| **[Expense Tracker Bot](https://github.com/sgeorge83/Expense-Tracker---Telegram-Bot)** | Telegram expense tracker with smart categorization, voice notes, OCR receipts & budgeting | [Repository](https://github.com/sgeorge83/Expense-Tracker---Telegram-Bot) |
-| **[Excel Admin Automation Suite](https://github.com/sgeorge83/Excel-Admin-Automation-Suite)** | VBA toolkit for document management and file organization in admin workflows | [Repository](https://github.com/sgeorge83/Excel-Admin-Automation-Suite) |
+If you want to see specific projects, **browse my repositories** on this profile — I add new work regularly and keep building.
 
 ---
 
-### 🛠️ What I Focus On
+### E-GEEK Creations
 
-* **Workflow & Admin Automation** — Python scripts, UAE visa/document extraction, VBA/Excel tools, Linux scheduling utilities, and file-organization workflows.
-* **Web Apps, PWAs & Widgets** — Bilingual devotional apps, Android widgets, CV tools, and interactive front ends on GitHub Pages and Vercel.
-* **APIs, Bots & Social Automation** — REST APIs, Telegram bots, Instagram/Facebook pipelines, and multi-source data integrations.
-* **Deployment & Delivery** — CI/CD workflows, cron scheduling, API keys & secrets, hosting configuration, and taking projects from idea to a live URL or installable app.
+**E-GEEK Creations** is my umbrella for products that serve both professional and community needs.
 
----
+On the **HR side**, I built and ship **[SHARX HR Automation Suite](https://egeek83.gumroad.com/l/SHARX)** — a Python application that extracts structured data from UAE **entry visa** and **visa cancellation** documents. It is available on Gumroad and reflects the kind of problem I know well from HR practice: less manual copying, more consistent output.
 
-### 💡 How I Build
-
-I work in a **builder–learner** model: I define the problem, structure the solution, and collaborate closely with AI-assisted tools to implement, refine, and deploy. That process has taught me version control, debugging, API design, cross-platform delivery, and production deployment — skills I apply across every project in this profile.
+On the **faith & content side**, E-GEEK covers a growing suite of verse-of-the-day tools — backend APIs, Android home-screen widgets, wallpaper apps, Urdu–English PWAs, data layers, and social automation — designed to work together as one ecosystem rather than isolated experiments.
 
 ---
 
-### 📊 GitHub Activity
+### How I Work
+
+I work as a **builder–learner**: I define the problem, shape the requirements, collaborate with AI-assisted tools to implement and debug, then handle deployment, scheduling, and iteration myself. That process has taught me version control, API design, cross-platform delivery, and getting things live — skills I apply across every project I take on.
+
+---
+
+### Want to Know More?
+
+* **Repositories** — explore this profile for code, apps, and automation work.
+* **Commercial HR tool** — [SHARX on Gumroad](https://egeek83.gumroad.com/l/SHARX)
+* **Questions or collaboration** — reach out via [LinkedIn](https://www.linkedin.com/in/sharoon-george-47993b65); happy to talk about any project in more detail.
+
+---
+
+### GitHub Activity
 ![Sharoon's Stats](https://github-readme-stats.vercel.app/api?username=sgeorge83&show_icons=true&theme=radical&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgeorge83&layout=compact&theme=radical&hide=html,css)
-
----
-
-### 🌱 Current Focus
-* **Growing** the E-GEEK Bible & Urdu content ecosystem — backend, data, widget, PWAs, APIs, and social automation in sync.
-* **Shipping** practical HR tools for the UAE market (e.g. SHARX visa extraction suite on Gumroad).
-* **Maintaining** Linux and admin automation tools (Gnome Schedule, Excel suites, file workflows).
-* **Learning** deeper Python patterns, API design, and mobile app delivery through hands-on builds.
-
----
-
-### 📫 Let's Connect
-[LinkedIn Profile](https://www.linkedin.com/in/sharoon-george-47993b65) · [All Repositories](https://github.com/sgeorge83?tab=repositories) · [E-GEEK on Gumroad](https://egeek83.gumroad.com/l/SHARX)
 
 ---
 *"Building useful tools, learning as I go, and shipping what works."*
