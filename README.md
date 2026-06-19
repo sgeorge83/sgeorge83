@@ -8,12 +8,13 @@ I'm not a traditional software engineer by background, but I've gained practical
 ---
 
 ### 📖 E-GEEK CREATIONS — Bible & Verse Ecosystem
-A connected suite of daily-verse products — backend API, Android widget, bilingual PWAs, Urdu API, and social automation — built and maintained together:
+A connected suite of daily-verse products — backend API, Android widget & wallpapers, bilingual PWAs, Urdu API, and social automation — built and maintained together:
 
 | Project | What it does | Live / Repo |
 | :--- | :--- | :--- |
 | **[Bible Widget Backend](https://github.com/sgeorge83/bible-widget-backend)** | Serverless API — fetches Verse of the Day, ESV text, AI verse insight, Redis caching; powers widget, RSS & social bots | [bible-widget-backend.vercel.app](https://bible-widget-backend.vercel.app) |
 | **[Bible Widget](https://github.com/sgeorge83/BibleWidgetApp)** | Android home-screen widget — daily verse with insight, auto-refresh at 9:30 AM Dubai, offline cache | [Repository](https://github.com/sgeorge83/BibleWidgetApp) |
+| **[E-Geek Bible Themes](https://github.com/sgeorge83/e-geek-bible-themes)** | Android app — 30-day faith wallpaper journey with daily Scripture themes, auto-refresh & manual apply | [Repository](https://github.com/sgeorge83/e-geek-bible-themes) |
 | **[VOTD-IG](https://github.com/sgeorge83/VOTD-IG)** | Automated daily Instagram & Facebook posts — branded image generation, Cloudinary, Meta Graph API, GitHub Actions | [Repository](https://github.com/sgeorge83/VOTD-IG) |
 | **[VOTD Urdu & English](https://github.com/sgeorge83/VOTD-URDU-ENGLISH)** | Bilingual installable PWA — Urdu Geo Version + English verse, copy/share, offline shell | [sgeorge83.github.io/VOTD-URDU-ENGLISH](https://sgeorge83.github.io/VOTD-URDU-ENGLISH/) |
 | **[urdu-bible-api](https://github.com/sgeorge83/urdu-bible-api)** | REST API for the Urdu Geo Version Bible — FastAPI on Vercel with interactive docs | [urdu-bible-api.vercel.app](https://urdu-bible-api.vercel.app) |
